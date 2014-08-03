@@ -30,7 +30,6 @@ class Server {
 		}
 	}
 	/*
-
 	 */
 	public void accept(HandleClient c, String opt, String txt, int pos) {
 		System.out.println(data);
